@@ -1,1 +1,1 @@
-# Building-a-School-Management-System
+# School-Money-Management-System
